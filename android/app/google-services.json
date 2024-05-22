@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "326111149249",
+    "project_id": "ev-charging-locator-57df6",
+    "storage_bucket": "ev-charging-locator-57df6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326111149249:android:0db75b0ab545372316a840",
+        "android_client_info": {
+          "package_name": "com.kazungudev.ev_charging_locator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS1J6raMvGPm4HNJsGt58ler7ZybIBqz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
